@@ -1,0 +1,44 @@
+#card{
+    border-radius: 10px;
+    height:400px;
+    width: 300px;
+    background-color: rgb(210, 206, 206);
+    padding: 30px;
+    margin: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+#card img{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+
+}
+#card h1{
+   font-size: 25px;
+   margin: 10px 0; 
+   font-weight: 700;
+}
+#card h5{
+    font-size: 25px;
+    color: red;
+    margin: 20px;
+}
+#card button{
+    background-color: cadetblue;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 12px 20px;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+
+}
+#cord #remove{
+    background-color: #dadada;
+    color: #111;
+}
